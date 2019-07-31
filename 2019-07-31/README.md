@@ -4,7 +4,7 @@
 
 ## 발표자료
 
-* [클라우드와 게임](01-Cloud and Gaming.pdf)
+* [클라우드와 게임](01-Cloud%20and%20Gaming.pdf)
 * [Game on Azure](about:blank)
 * [Introduction to Azure PlayFab](about:blank)
 * [Azure Database Service](about:blank)
