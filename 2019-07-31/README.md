@@ -6,6 +6,4 @@
 
 * [클라우드와 게임](01-Cloud%20and%20Gaming.pdf)
 * [Game on Azure](GameOnAzure_v2.0.pdf)
-* [Introduction to Azure PlayFab](about:blank)
-* [Azure Database Service](about:blank)
-* [Azure 가격정책을 통한 효율적인 구매방법](about:blank)
+* [Introduction to Azure PlayFab](Introduction%20to%20Azure%20PlayFab_dist.pdf)
